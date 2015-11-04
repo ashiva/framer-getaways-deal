@@ -1,0 +1,152 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["newdd/layers.json.js"] = [
+	{
+		"id": 109,
+		"name": "Main",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 4177
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Main.png",
+			"frame": {
+				"x": 1,
+				"y": 87,
+				"width": 639,
+				"height": 4090
+			}
+		},
+		"imageType": "png",
+		"children": [
+			{
+				"id": 106,
+				"name": "Dates",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 4177
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/Dates.png",
+					"frame": {
+						"x": 63,
+						"y": 726,
+						"width": 515,
+						"height": 62
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1096294913"
+			},
+			{
+				"id": 61,
+				"name": "Options",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 4177
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/Options.png",
+					"frame": {
+						"x": 0,
+						"y": 1373,
+						"width": 640,
+						"height": 1069
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1107505577"
+			},
+			{
+				"id": 91,
+				"name": "ReviewJump",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 4177
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/ReviewJump.png",
+					"frame": {
+						"x": 168,
+						"y": 670,
+						"width": 290,
+						"height": 26
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1344703410"
+			}
+		],
+		"modification": "1401228355"
+	},
+	{
+		"id": 13,
+		"name": "CTA",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 4177
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/CTA.png",
+			"frame": {
+				"x": 0,
+				"y": 881,
+				"width": 640,
+				"height": 120
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "119064072"
+	},
+	{
+		"id": 99,
+		"name": "Header",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 4177
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Header.png",
+			"frame": {
+				"x": 1,
+				"y": 0,
+				"width": 639,
+				"height": 90
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1981686711"
+	}
+]
